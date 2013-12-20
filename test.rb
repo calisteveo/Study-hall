@@ -9,4 +9,6 @@ puts "How many prework assignments have you completed?"
 
 number = gets.chomp
 
-puts "Hello, #{name}. I'm Steve. Nice to meet you. I see you have completed #{number} assignments. I have just completed 1 assignment in my free time, I enjo
+puts "Hello, #{name}. I'm Steve. Nice to meet you. I see you have completed #{number} assignments. I have just completed 1 assignment in my free time, I enjo"
+
+#added close quote
